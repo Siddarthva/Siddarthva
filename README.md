@@ -3,13 +3,10 @@
 ### Full-Stack Developer | AI/ML Engineer | Systems Builder
 
 Hey 👋  
-I like turning **ideas → architecture → real products**.
-
 Most of my work sits at the intersection of:
 
 - ⚙️ Full-Stack Development
 - 🤖 Artificial Intelligence & Machine Learning
-- 🧠 System Design
 - 🚀 Hackathons & Experimental Products
 
 Currently pursuing **AI & ML at Sahyadri College of Engineering and Management**.
