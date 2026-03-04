@@ -95,5 +95,3 @@ A collaboration ecosystem connecting innovators, mentors, and startups.
 - GitHub: https://github.com/Siddarthva
 
 ---
-
-⭐ **Always building. Always learning. Always shipping.**
