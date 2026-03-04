@@ -89,9 +89,12 @@ Secure authentication system designed for healthcare platforms.
 A collaboration ecosystem connecting innovators, mentors, and startups.
 
 ---
-
 # 🌐 Connect With Me
 
-- GitHub: https://github.com/Siddarthva
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/siddarthvacharya)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/sidarthvacharyaa/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddarthva)
 
 ---
