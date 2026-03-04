@@ -1,1 +1,15 @@
-💫 About Me:hey 👋 i'm siddarthi like turning ideas → code → real products.mostly building web apps, AI tools, and full-stack stuff.if it involves logic, systems, or algorithms... i'm in.🎓 ai & ml undergrad @ sahyadri college💻 full-stack + ai nerd🚀 hackathons + open source📈 currently shipping cool projects & learning nonstop🌐 find me here: <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />💻 Tech Stack:Languages: Frameworks & Libraries: Databases & Tools: 🚀 Projects:[Udaan Kickstarter for Startups] - Crowdfunding platform with secure JWT auth and Razorpay integration. (React, Node.js, MongoDB)[BloodLink] - Real-time blood donation platform enabling donor-recipient connectivity in under 5 minutes. (React, MongoDB)[Lend a Hand] - Service booking app with a conflict-prevention scheduling algorithm and real-time chat. (React Native, Node.js, MongoDB)[Algo Visualizer] - Interactive visualization tool for sorting algorithms (Bubble, Merge, Quick Sort) with speed controls. (JavaScript, HTML5 Canvas)📊 GitHub Stats:<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Siddarthva&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Siddarth's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddarthva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Siddarth's Top Languages" /><img src="https://nirzak-streak-stats.vercel.app/?user=Siddarthva&theme=dark&hide_border=false" alt="Siddarth's GitHub Streak" /></div><div align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Siddarthva&icon=0&color=0" alt="Visitor Count" /></a></div><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me:
+hey 👋 i'm siddarthi like turning ideas → code → real productsmostly building web apps, AI tools, and full-stack stuffif it involves logic, systems, or algorithms... i'm in.ai & ml undergrad @ sahyadri collegefull-stack + ai nerdhackathons + open sourcecurrently shipping cool projects & learning nonstop🌐 find me here
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Siddarthva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Siddarthva&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddarthva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Siddarthva&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
