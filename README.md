@@ -79,9 +79,6 @@ If it involves **logic, algorithms, architecture, or performance optimization �
 
 # 🧩 Current Projects
 
-🚀 **Finance Tracking Engine**  
-A full-stack financial system with analytics and transaction management.
-
 🧠 **AI Healthcare Authentication System**  
 Secure authentication system designed for healthcare platforms.
 
